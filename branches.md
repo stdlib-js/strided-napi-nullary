@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/strided/napi/nullary"
-click B href "https://github.com/stdlib-js/strided-napi-nullary/tree/main"
-click C href "https://github.com/stdlib-js/strided-napi-nullary/tree/production"
-click D href "https://github.com/stdlib-js/strided-napi-nullary/tree/esm"
-click E href "https://github.com/stdlib-js/strided-napi-nullary/tree/deno"
-click F href "https://github.com/stdlib-js/strided-napi-nullary/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/strided/napi/nullary"
+%% click B href "https://github.com/stdlib-js/strided-napi-nullary/tree/main"
+%% click C href "https://github.com/stdlib-js/strided-napi-nullary/tree/production"
+%% click D href "https://github.com/stdlib-js/strided-napi-nullary/tree/esm"
+%% click E href "https://github.com/stdlib-js/strided-napi-nullary/tree/deno"
+%% click F href "https://github.com/stdlib-js/strided-napi-nullary/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/strided/napi/nullary
