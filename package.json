@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@stdlib/strided-base-function-object": "^0.1.0",
-    "@stdlib/strided-base-nullary": "^0.0.7",
+    "@stdlib/strided-base-nullary": "^0.1.0",
     "@stdlib/strided-dtypes": "^0.1.0",
     "@stdlib/strided-napi-addon-arguments": "^0.1.0",
     "@stdlib/utils-library-manifest": "^0.1.0"
